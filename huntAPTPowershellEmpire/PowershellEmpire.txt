@@ -1,1 +1,6 @@
+# 
+hunt for threats within an enterprise using Splunk
 
+a fictional nation-state APT
+leverage Splunk + Enterprise Security, & Lockheed Martin Kill Chain + MITRE Attack
+BOTS dataset
